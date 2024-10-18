@@ -1,0 +1,3 @@
+﻿  3번.c
+C:\Users\Robot\Desktop\전자책 모음\CS\프로그래밍 언어\혼자 공부하는 C 언어\3장 3-2 3번 문제\3번.c(11,7): error C2086: 'char ch': 재정의
+C:\Users\Robot\Desktop\전자책 모음\CS\프로그래밍 언어\혼자 공부하는 C 언어\3장 3-2 3번 문제\3번.c(5,7): message : 'ch' 선언을 참조하십시오.
